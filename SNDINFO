@@ -1,0 +1,15 @@
+mom/mom01       MOM01
+mom/mom02       MOM02
+mom/mom03       MOM03
+mom/mom04       MOM04
+mom/mom05       MOM05
+mom/mom06       MOM06
+mom/mom07       MOM07
+mom/mom08       MOM08
+mom/mom09       MOM09
+mom/mom10       MOM10
+mom/mom11       MOM11
+mom/mom12       MOM12
+mom/mom13       MOM13
+
+$random momsound {mom/mom01 mom/mom02 mom/mom03 mom/mom04 mom/mom05 mom/mom06 mom/mom07 mom/mom08 mom/mom09 mom/mom10 mom/mom11 mom/mom12 mom/mom13}

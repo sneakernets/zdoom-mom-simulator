@@ -1,0 +1,12 @@
+#library "MOOOM"
+#include "zcommon.acs"
+script "GETTHECAMERA" ENTER
+{
+    int second;
+    while (1)
+    {
+        second = random(10,30); // Every 10 to 30 seconds.
+        delay(35*second);
+        LocalAmbientSound("momsound",127);
+    }
+}
