@@ -5,8 +5,8 @@ script "GETTHECAMERA" ENTER
     int second;
     while (1)
     {
-        second = random(10,30); // Every 10 to 30 seconds.
+        second = random(90,120); // Every 90 to 120 seconds.
         delay(35*second);
-        LocalAmbientSound("momsound",127);
+        LocalAmbientSound("valleysound",127);
     }
 }

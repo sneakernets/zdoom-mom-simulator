@@ -11,5 +11,18 @@ mom/mom10       MOM10
 mom/mom11       MOM11
 mom/mom12       MOM12
 mom/mom13       MOM13
+valley/out01    OUT01
+valley/out02    OUT02
+valley/out03    OUT03
+valley/out04    OUT04
+valley/out05    OUT05
+valley/out06    OUT06
+valley/out07    OUT07
+valley/out08    OUT08
+valley/out09    OUT09
+valley/out10    OUT10
+valley/out11    OUT11
 
 $random momsound {mom/mom01 mom/mom02 mom/mom03 mom/mom04 mom/mom05 mom/mom06 mom/mom07 mom/mom08 mom/mom09 mom/mom10 mom/mom11 mom/mom12 mom/mom13}
+
+$random valleysound {valley/out01 valley/out05 valley/out06 valley/out07 valley/out10 valley/out02 valley/out03 valley/out04 valley/out08 valley/out09 valley/out11}
